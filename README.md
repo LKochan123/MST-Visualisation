@@ -1,2 +1,2 @@
 # MST-Visualisation
-MST visualisation based on Poland voivodeships, written in pygame
+MST visualisation based on Poland voivodeships, wrote in pygame
